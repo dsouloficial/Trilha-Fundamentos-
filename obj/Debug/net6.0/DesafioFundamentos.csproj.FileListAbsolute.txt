@@ -1,0 +1,15 @@
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.sourcelink.json
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\dsoul\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
